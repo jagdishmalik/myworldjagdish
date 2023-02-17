@@ -14,5 +14,4 @@ console.log(x)
 //git add
 // git commit -m "put your comment of change "
 //git branch -m jagdish
-//gut remote add origin "repositary address copy from github website"
-//git push -u origin main
+//git push -u origin jagdish
